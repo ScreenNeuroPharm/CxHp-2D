@@ -1,4 +1,4 @@
-# CxHp-3D
+# CxHp-2D
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ScreenNeuroPharm/CxHp-2D/blob/master/LICENSE)
 
 > The repository contains the data and the functions need to reproduce the analysis reported in the article "Functional Inhibitory Connections Modulate the Electrophysiological Activity Patterns of Cortical-Hippoampal Ensembles".
